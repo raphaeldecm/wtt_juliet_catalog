@@ -1,0 +1,24 @@
+Flawfinder version 2.0.10, (C) 2001-2019 David A. Wheeler.
+Number of rules (primarily dangerous function names) in C/C++ ruleset: 223
+Examining /home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int_fscanf_square_63a.c
+
+FINAL RESULTS:
+
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int_fscanf_square_63a.c:85:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+
+ANALYSIS SUMMARY:
+
+Hits = 1
+Lines analyzed = 99 in approximately 0.00 seconds (24933 lines/second)
+Physical Source Lines of Code (SLOC) = 52
+Hits@level = [0]   2 [1]   0 [2]   0 [3]   1 [4]   0 [5]   0
+Hits@level+ = [0+]   3 [1+]   1 [2+]   1 [3+]   1 [4+]   0 [5+]   0
+Hits/KSLOC@level+ = [0+] 57.6923 [1+] 19.2308 [2+] 19.2308 [3+] 19.2308 [4+]   0 [5+]   0
+Minimum risk level = 1
+Not every hit is necessarily a security vulnerability.
+There may be other security vulnerabilities; review your code!
+See 'Secure Programming HOWTO'
+(https://dwheeler.com/secure-programs) for more information.

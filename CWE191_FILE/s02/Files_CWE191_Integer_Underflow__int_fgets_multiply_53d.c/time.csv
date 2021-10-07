@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE191_Integer_Underflow__int_fgets_multiply_53d.c,1.2628,0.0014,0.0013,20.0138,20.0133,1795,1443,39,7

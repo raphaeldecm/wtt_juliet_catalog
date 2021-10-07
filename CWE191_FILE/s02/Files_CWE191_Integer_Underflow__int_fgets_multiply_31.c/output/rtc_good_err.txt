@@ -1,0 +1,41 @@
+In file included from /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_rtc.c:10:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c: In function ‘printLongLongLine’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:47:16: warning: format ‘%lld’ expects argument of type ‘long long int’, but argument 2 has type ‘int64_t’ {aka ‘long int’} [-Wformat=]
+   47 |     printf("%lld\n", longLongIntNumber);
+      |             ~~~^     ~~~~~~~~~~~~~~~~~
+      |                |     |
+      |                |     int64_t {aka long int}
+      |                long long int
+      |             %ld
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c: In function ‘printSizeTLine’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:52:14: warning: format ‘%u’ expects argument of type ‘unsigned int’, but argument 2 has type ‘size_t’ {aka ‘long unsigned int’} [-Wformat=]
+   52 |     printf("%ud\n", sizeTNumber);
+      |             ~^      ~~~~~~~~~~~
+      |              |      |
+      |              |      size_t {aka long unsigned int}
+      |              unsigned int
+      |             %lu
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c: In function ‘decodeHexWChars’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:133:37: warning: implicit declaration of function ‘iswxdigit’ [-Wimplicit-function-declaration]
+  133 |     while (numWritten < numBytes && iswxdigit(hex[2 * numWritten]) && iswxdigit(hex[2 * numWritten + 1]))
+      |                                     ^~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:133:50: warning: ‘iswxdigit’ argument 1 promotes to ‘wchar_t’ {aka ‘const int’} where ‘unsigned int’ is expected in a call to built-in function declared without prototype [-Wbuiltin-declaration-mismatch]
+  133 |     while (numWritten < numBytes && iswxdigit(hex[2 * numWritten]) && iswxdigit(hex[2 * numWritten + 1]))
+      |                                               ~~~^~~~~~~~~~~~~~~~
+<built-in>: note: built-in ‘iswxdigit’ declared here
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:133:84: warning: ‘iswxdigit’ argument 1 promotes to ‘wchar_t’ {aka ‘const int’} where ‘unsigned int’ is expected in a call to built-in function declared without prototype [-Wbuiltin-declaration-mismatch]
+  133 |     while (numWritten < numBytes && iswxdigit(hex[2 * numWritten]) && iswxdigit(hex[2 * numWritten + 1]))
+      |                                                                                 ~~~^~~~~~~~~~~~~~~~~~~~
+<built-in>: note: built-in ‘iswxdigit’ declared here
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_rtc.c: At top level:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_rtc.c:16: warning: "CHAR_ARRAY_SIZE" redefined
+   16 | #define CHAR_ARRAY_SIZE 20
+      | 
+In file included from /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_rtc.c:9:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE191_Integer_Underflow/wtt/CWE191_Integer_Underflow__int_fgets_multiply_31.c:20: note: this is the location of the previous definition
+   20 | #define CHAR_ARRAY_SIZE (3 * sizeof(data) + 2)
+      | 
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_rtc.c: In function ‘__wrap_fgets’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_rtc.c:23:12: warning: returning ‘char * restrict’ from a function with return type ‘char’ makes integer from pointer without a cast [-Wint-conversion]
+   23 |     return __s;
+      |            ^~~

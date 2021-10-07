@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE369_Divide_by_Zero__float_fscanf_34.c,1.2605,0.0013,0.0016,20.0140,20.0142,1402,1284,29,2

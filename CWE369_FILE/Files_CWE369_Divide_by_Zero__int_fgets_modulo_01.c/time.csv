@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE369_Divide_by_Zero__int_fgets_modulo_01.c,1.6823,0.0015,0.0017,20.0144,20.0151,1516,1353,33,2

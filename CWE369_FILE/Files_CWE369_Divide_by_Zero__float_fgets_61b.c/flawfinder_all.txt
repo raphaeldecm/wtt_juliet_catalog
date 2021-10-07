@@ -1,0 +1,30 @@
+Flawfinder version 2.0.10, (C) 2001-2019 David A. Wheeler.
+Number of rules (primarily dangerous function names) in C/C++ ruleset: 223
+Examining /home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE369_Divide_by_Zero/wtt/CWE369_Divide_by_Zero__float_fgets_61b.c
+
+FINAL RESULTS:
+
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE369_Divide_by_Zero/wtt/CWE369_Divide_by_Zero__float_fgets_61b.c:29:  [2] (buffer) char:
+  Statically-sized arrays can be improperly restricted, leading to potential
+  overflows or other issues (CWE-119!/CWE-120). Perform bounds checking, use
+  functions that limit length, or ensure that the size is larger than the
+  maximum possible length.
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE369_Divide_by_Zero/wtt/CWE369_Divide_by_Zero__float_fgets_61b.c:60:  [2] (buffer) char:
+  Statically-sized arrays can be improperly restricted, leading to potential
+  overflows or other issues (CWE-119!/CWE-120). Perform bounds checking, use
+  functions that limit length, or ensure that the size is larger than the
+  maximum possible length.
+
+ANALYSIS SUMMARY:
+
+Hits = 2
+Lines analyzed = 75 in approximately 0.00 seconds (19956 lines/second)
+Physical Source Lines of Code (SLOC) = 42
+Hits@level = [0]   0 [1]   0 [2]   2 [3]   0 [4]   0 [5]   0
+Hits@level+ = [0+]   2 [1+]   2 [2+]   2 [3+]   0 [4+]   0 [5+]   0
+Hits/KSLOC@level+ = [0+] 47.619 [1+] 47.619 [2+] 47.619 [3+]   0 [4+]   0 [5+]   0
+Minimum risk level = 1
+Not every hit is necessarily a security vulnerability.
+There may be other security vulnerabilities; review your code!
+See 'Secure Programming HOWTO'
+(https://dwheeler.com/secure-programs) for more information.

@@ -1,0 +1,24 @@
+Flawfinder version 2.0.10, (C) 2001-2019 David A. Wheeler.
+Number of rules (primarily dangerous function names) in C/C++ ruleset: 223
+Examining /home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE191_Integer_Underflow/wtt/CWE191_Integer_Underflow__int_fgets_multiply_08.c
+
+FINAL RESULTS:
+
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE191_Integer_Underflow/wtt/CWE191_Integer_Underflow__int_fgets_multiply_08.c:227:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+
+ANALYSIS SUMMARY:
+
+Hits = 1
+Lines analyzed = 241 in approximately 0.00 seconds (48277 lines/second)
+Physical Source Lines of Code (SLOC) = 175
+Hits@level = [0]   0 [1]   0 [2]   3 [3]   1 [4]   0 [5]   0
+Hits@level+ = [0+]   4 [1+]   4 [2+]   4 [3+]   1 [4+]   0 [5+]   0
+Hits/KSLOC@level+ = [0+] 22.8571 [1+] 22.8571 [2+] 22.8571 [3+] 5.71429 [4+]   0 [5+]   0
+Minimum risk level = 3
+Not every hit is necessarily a security vulnerability.
+There may be other security vulnerabilities; review your code!
+See 'Secure Programming HOWTO'
+(https://dwheeler.com/secure-programs) for more information.

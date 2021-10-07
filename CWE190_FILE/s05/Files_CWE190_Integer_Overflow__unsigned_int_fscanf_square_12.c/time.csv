@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE190_Integer_Overflow__unsigned_int_fscanf_square_12.c,1.2173,0.0013,0.0017,20.0122,20.0129,1319,1101,29,2

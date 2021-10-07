@@ -1,0 +1,19 @@
+Flawfinder version 2.0.10, (C) 2001-2019 David A. Wheeler.
+Number of rules (primarily dangerous function names) in C/C++ ruleset: 223
+Examining /home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE191_Integer_Underflow/wtt/CWE191_Integer_Underflow__int_fscanf_sub_53d.c
+
+FINAL RESULTS:
+
+
+ANALYSIS SUMMARY:
+
+No hits found.
+Lines analyzed = 60 in approximately 0.00 seconds (16523 lines/second)
+Physical Source Lines of Code (SLOC) = 31
+Hits@level = [0]   0 [1]   0 [2]   0 [3]   0 [4]   0 [5]   0
+Hits@level+ = [0+]   0 [1+]   0 [2+]   0 [3+]   0 [4+]   0 [5+]   0
+Hits/KSLOC@level+ = [0+]   0 [1+]   0 [2+]   0 [3+]   0 [4+]   0 [5+]   0
+Minimum risk level = 1
+There may be other security vulnerabilities; review your code!
+See 'Secure Programming HOWTO'
+(https://dwheeler.com/secure-programs) for more information.

@@ -1,0 +1,4 @@
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_good_rtc.c: In function ‘__wrap_fgets’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_good_rtc.c:22:12: warning: returning ‘char * restrict’ from a function with return type ‘char’ makes integer from pointer without a cast [-Wint-conversion]
+   22 |     return __s;
+      |            ^~~

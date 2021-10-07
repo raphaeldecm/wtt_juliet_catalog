@@ -1,0 +1,12 @@
+CWE190_Integer_Overflow__short_fscanf_add_67a.c********BAD*********
+******CWE190_Integer_Overflow__short_fscanf_add_67_bad
+CWE190_Integer_Overflow__short_fscanf_add_67a.c********GOOD*********
+******goodB2G
+**** Mock functions: void CWE190_Integer_Overflow__short_fscanf_add_67b_badSink(CWE190_Integer_Overflow__short_fscanf_add_67_structType myStruct)
+**** Mock functions: void CWE190_Integer_Overflow__short_fscanf_add_67b_goodG2BSink(CWE190_Integer_Overflow__short_fscanf_add_67_structType myStruct)
+**** Mock functions: void CWE190_Integer_Overflow__short_fscanf_add_67b_goodB2GSink(CWE190_Integer_Overflow__short_fscanf_add_67_structType myStruct)
+################ 
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_badSink,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_goodG2BSink,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_goodB2GSink -lcmocka -o good_a.out
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_badSink,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_goodG2BSink,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_goodB2GSink -lcmocka -o bad_a.out
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_badSink,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_goodG2BSink,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_goodB2GSink -lcmocka -o fuzz_bad
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_badSink,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_goodG2BSink,--wrap=CWE190_Integer_Overflow__short_fscanf_add_67b_goodB2GSink -lcmocka -o fuzz_good

@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE191_Integer_Underflow__int_fgets_sub_64a.c,1.5932,0.0016,0.0018,20.0153,20.0148,4237,3737,96,24

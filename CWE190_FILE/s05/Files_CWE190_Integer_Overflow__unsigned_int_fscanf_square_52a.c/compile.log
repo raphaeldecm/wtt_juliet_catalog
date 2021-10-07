@@ -1,0 +1,12 @@
+CWE190_Integer_Overflow__unsigned_int_fscanf_square_52a.c********BAD*********
+******CWE190_Integer_Overflow__unsigned_int_fscanf_square_52_bad
+CWE190_Integer_Overflow__unsigned_int_fscanf_square_52a.c********GOOD*********
+******goodB2G
+**** Mock functions: void CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_badSink(unsigned int data)
+**** Mock functions: void CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodG2BSink(unsigned int data)
+**** Mock functions: void CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodB2GSink(unsigned int data)
+################ 
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_badSink,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodG2BSink,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodB2GSink -lcmocka -o good_a.out
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_badSink,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodG2BSink,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodB2GSink -lcmocka -o bad_a.out
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_badSink,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodG2BSink,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodB2GSink -lcmocka -o fuzz_bad
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_badSink,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodG2BSink,--wrap=CWE190_Integer_Overflow__unsigned_int_fscanf_square_52b_goodB2GSink -lcmocka -o fuzz_good

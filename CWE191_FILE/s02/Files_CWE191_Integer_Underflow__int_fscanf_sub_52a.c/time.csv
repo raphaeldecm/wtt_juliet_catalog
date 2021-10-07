@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE191_Integer_Underflow__int_fscanf_sub_52a.c,1.2464,0.0013,0.0016,20.0123,20.0117,3422,3127,67,19

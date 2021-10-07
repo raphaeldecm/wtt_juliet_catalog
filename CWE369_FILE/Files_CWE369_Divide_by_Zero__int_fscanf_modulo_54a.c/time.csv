@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE369_Divide_by_Zero__int_fscanf_modulo_54a.c,1.3111,0.0015,0.0015,20.0148,20.0149,1225,1258,29,2

@@ -1,0 +1,105 @@
+In file included from /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:9:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int64_t_fscanf_square_64a.c: In function ‘CWE190_Integer_Overflow__int64_t_fscanf_square_64_bad’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int64_t_fscanf_square_64a.c:32:24: warning: format ‘%lld’ expects argument of type ‘long long int *’, but argument 3 has type ‘int64_t *’ {aka ‘long int *’} [-Wformat=]
+   32 |     fscanf (stdin, "%lld", &data);
+      |                     ~~~^   ~~~~~
+      |                        |   |
+      |                        |   int64_t * {aka long int *}
+      |                        long long int *
+      |                     %ld
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int64_t_fscanf_square_64a.c: In function ‘goodB2G’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int64_t_fscanf_square_64a.c:60:24: warning: format ‘%lld’ expects argument of type ‘long long int *’, but argument 3 has type ‘int64_t *’ {aka ‘long int *’} [-Wformat=]
+   60 |     fscanf (stdin, "%lld", &data);
+      |                     ~~~^   ~~~~~
+      |                        |   |
+      |                        |   int64_t * {aka long int *}
+      |                        long long int *
+      |                     %ld
+In file included from /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:10:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c: In function ‘printLongLongLine’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:47:16: warning: format ‘%lld’ expects argument of type ‘long long int’, but argument 2 has type ‘int64_t’ {aka ‘long int’} [-Wformat=]
+   47 |     printf("%lld\n", longLongIntNumber);
+      |             ~~~^     ~~~~~~~~~~~~~~~~~
+      |                |     |
+      |                |     int64_t {aka long int}
+      |                long long int
+      |             %ld
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c: In function ‘printSizeTLine’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:52:14: warning: format ‘%u’ expects argument of type ‘unsigned int’, but argument 2 has type ‘size_t’ {aka ‘long unsigned int’} [-Wformat=]
+   52 |     printf("%ud\n", sizeTNumber);
+      |             ~^      ~~~~~~~~~~~
+      |              |      |
+      |              |      size_t {aka long unsigned int}
+      |              unsigned int
+      |             %lu
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c: In function ‘decodeHexWChars’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:133:37: warning: implicit declaration of function ‘iswxdigit’ [-Wimplicit-function-declaration]
+  133 |     while (numWritten < numBytes && iswxdigit(hex[2 * numWritten]) && iswxdigit(hex[2 * numWritten + 1]))
+      |                                     ^~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:133:50: warning: ‘iswxdigit’ argument 1 promotes to ‘wchar_t’ {aka ‘const int’} where ‘unsigned int’ is expected in a call to built-in function declared without prototype [-Wbuiltin-declaration-mismatch]
+  133 |     while (numWritten < numBytes && iswxdigit(hex[2 * numWritten]) && iswxdigit(hex[2 * numWritten + 1]))
+      |                                               ~~~^~~~~~~~~~~~~~~~
+<built-in>: note: built-in ‘iswxdigit’ declared here
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c:133:84: warning: ‘iswxdigit’ argument 1 promotes to ‘wchar_t’ {aka ‘const int’} where ‘unsigned int’ is expected in a call to built-in function declared without prototype [-Wbuiltin-declaration-mismatch]
+  133 |     while (numWritten < numBytes && iswxdigit(hex[2 * numWritten]) && iswxdigit(hex[2 * numWritten + 1]))
+      |                                                                                 ~~~^~~~~~~~~~~~~~~~~~~~
+<built-in>: note: built-in ‘iswxdigit’ declared here
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c: In function ‘__wrap_CWE190_Integer_Overflow__int64_t_fscanf_square_64b_goodG2BSink’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:19:177: warning: comparison between pointer and integer
+   19 | void __wrap_CWE190_Integer_Overflow__int64_t_fscanf_square_64b_goodG2BSink(void * dataVoidPtr){int64_t * dataPtr = (int64_t *)dataVoidPtr;int64_t data = (*dataPtr);if (dataPtr < INT_MAX){int64_t result = data * data;printLongLongLine(result);}else{printLine("data value is too large to perform arithmetic safely.");}}
+      |                                                                                                                                                                                 ^
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c: In function ‘__wrap_CWE190_Integer_Overflow__int64_t_fscanf_square_64b_goodB2GSink’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:20:177: warning: comparison between pointer and integer
+   20 | void __wrap_CWE190_Integer_Overflow__int64_t_fscanf_square_64b_goodB2GSink(void * dataVoidPtr){int64_t * dataPtr = (int64_t *)dataVoidPtr;int64_t data = (*dataPtr);if (dataPtr < INT_MAX){int64_t result = data * data;printLongLongLine(result);}else{printLine("data value is too large to perform arithmetic safely.");}}
+      |                                                                                                                                                                                 ^
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c: In function ‘test_juliet_rtc’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:29:15: warning: format ‘%lld’ expects argument of type ‘long long int *’, but argument 2 has type ‘int64_t *’ {aka ‘long int *’} [-Wformat=]
+   29 |     scanf("%lld\n", &data);
+      |            ~~~^     ~~~~~
+      |               |     |
+      |               |     int64_t * {aka long int *}
+      |               long long int *
+      |            %ld
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:34:26: warning: format ‘%lld’ expects argument of type ‘long long int’, but argument 3 has type ‘int64_t’ {aka ‘long int’} [-Wformat=]
+   34 |     sprintf(charRes, "%lld", result);
+      |                       ~~~^   ~~~~~~
+      |                          |   |
+      |                          |   int64_t {aka long int}
+      |                          long long int
+      |                       %ld
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:39:32: warning: format ‘%lld’ expects argument of type ‘long long int’, but argument 3 has type ‘int64_t’ {aka ‘long int’} [-Wformat=]
+   39 |         fprintf(inputFile, "%lld\n", data);
+      |                             ~~~^     ~~~~
+      |                                |     |
+      |                                |     int64_t {aka long int}
+      |                                long long int
+      |                             %ld
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:46:34: warning: format ‘%lld’ expects argument of type ‘long long int’, but argument 3 has type ‘int64_t’ {aka ‘long int’} [-Wformat=]
+   46 |         fprintf(fileAddress, "%lld\n", data);
+      |                               ~~~^     ~~~~
+      |                                  |     |
+      |                                  |     int64_t {aka long int}
+      |                                  long long int
+      |                               %ld
+In file included from /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:9:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int64_t_fscanf_square_64a.c: In function ‘CWE190_Integer_Overflow__int64_t_fscanf_square_64_bad’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int64_t_fscanf_square_64a.c:32:5: warning: ignoring return value of ‘fscanf’, declared with attribute warn_unused_result [-Wunused-result]
+   32 |     fscanf (stdin, "%lld", &data);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int64_t_fscanf_square_64a.c: In function ‘goodB2G’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE190_Integer_Overflow/wtt/CWE190_Integer_Overflow__int64_t_fscanf_square_64a.c:60:5: warning: ignoring return value of ‘fscanf’, declared with attribute warn_unused_result [-Wunused-result]
+   60 |     fscanf (stdin, "%lld", &data);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c: In function ‘test_juliet_rtc’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:29:5: warning: ignoring return value of ‘scanf’, declared with attribute warn_unused_result [-Wunused-result]
+   29 |     scanf("%lld\n", &data);
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:51:5: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   51 |     freopen("/dev/null", "a", stdout);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:54:5: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   54 |     freopen("read_ft.txt", "r", stdin);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c:58:5: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   58 |     freopen("/dev/tty", "a", stdout);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

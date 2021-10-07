@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE190_Integer_Overflow__int64_t_fscanf_multiply_66b.c,1.2196,0.0013,0.0019,20.0141,20.0149,1886,1237,33,3

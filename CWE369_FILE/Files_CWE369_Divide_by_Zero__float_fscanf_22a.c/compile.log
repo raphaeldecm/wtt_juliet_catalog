@@ -1,0 +1,13 @@
+CWE369_Divide_by_Zero__float_fscanf_22a.c********BAD*********
+******CWE369_Divide_by_Zero__float_fscanf_22_bad
+CWE369_Divide_by_Zero__float_fscanf_22a.c********GOOD*********
+****** a goodB2G1
+**** Mock functions: void CWE369_Divide_by_Zero__float_fscanf_22_badSink(float data)
+**** Mock functions: void CWE369_Divide_by_Zero__float_fscanf_22_goodB2G1Sink(float data)
+**** Mock functions: void CWE369_Divide_by_Zero__float_fscanf_22_goodB2G2Sink(float data)
+**** Mock functions: void CWE369_Divide_by_Zero__float_fscanf_22_goodG2BSink(float data)
+################ 
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_good_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=fscanf,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_badSink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodB2G1Sink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodB2G2Sink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodG2BSink -lcmocka -o good_a.out
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=fscanf,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_badSink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodB2G1Sink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodB2G2Sink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodG2BSink -lcmocka -o bad_a.out
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=fscanf,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_badSink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodB2G1Sink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodB2G2Sink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodG2BSink -lcmocka -o fuzz_bad
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_good_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=fscanf,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_badSink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodB2G1Sink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodB2G2Sink,--wrap=CWE369_Divide_by_Zero__float_fscanf_22_goodG2BSink -lcmocka -o fuzz_good

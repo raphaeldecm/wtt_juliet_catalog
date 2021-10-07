@@ -1,0 +1,13 @@
+CWE190_Integer_Overflow__int64_t_fscanf_square_22b.c********BAD*********
+******CWE190_Integer_Overflow__int64_t_fscanf_square_22_badSink(data);//
+CWE190_Integer_Overflow__int64_t_fscanf_square_22b.c********GOOD*********
+******CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G1Sink(data);//
+################ int CWE190_Integer_Overflow__int64_t_fscanf_square_22_badGlobal = 1;
+int CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G1Global = 0;
+int CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G2Global = 0;
+int CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodG2BGlobal = 0;
+
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets -lcmocka -o good_a.out
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets -lcmocka -o bad_a.out
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets -lcmocka -o fuzz_bad
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_good_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets -lcmocka -o fuzz_good

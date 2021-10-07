@@ -1,0 +1,9 @@
+CWE369_Divide_by_Zero__float_fgets_61b.c********BAD*********
+******CWE369_Divide_by_Zero__float_fgets_61b_badSource(input);//
+CWE369_Divide_by_Zero__float_fgets_61b.c********GOOD*********
+******CWE369_Divide_by_Zero__float_fgets_61b_goodB2GSource(input);//
+################ 
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_good_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_badSource,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_goodG2BSource,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_goodB2GSource -lcmocka -o good_a.out
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_badSource,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_goodG2BSource,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_goodB2GSource -lcmocka -o bad_a.out
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_badSource,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_goodG2BSource,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_goodB2GSource -lcmocka -o fuzz_bad
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_good_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_badSource,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_goodG2BSource,--wrap=CWE369_Divide_by_Zero__float_fgets_61b_goodB2GSource -lcmocka -o fuzz_good

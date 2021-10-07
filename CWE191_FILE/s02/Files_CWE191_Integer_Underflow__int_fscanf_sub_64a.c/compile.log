@@ -1,0 +1,12 @@
+CWE191_Integer_Underflow__int_fscanf_sub_64a.c********BAD*********
+******CWE191_Integer_Underflow__int_fscanf_sub_64_bad
+CWE191_Integer_Underflow__int_fscanf_sub_64a.c********GOOD*********
+******goodB2G
+**** Mock functions: void CWE191_Integer_Underflow__int_fscanf_sub_64b_badSink(void * dataVoidPtr)
+**** Mock functions: void CWE191_Integer_Underflow__int_fscanf_sub_64b_goodG2BSink(void * dataVoidPtr)
+**** Mock functions: void CWE191_Integer_Underflow__int_fscanf_sub_64b_goodB2GSink(void * dataVoidPtr)
+################ 
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_badSink,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_goodG2BSink,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_goodB2GSink -lcmocka -o good_a.out
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_bad_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_badSink,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_goodG2BSink,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_goodB2GSink -lcmocka -o bad_a.out
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_bad_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_badSink,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_goodG2BSink,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_goodB2GSink -lcmocka -o fuzz_bad
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_badSink,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_goodG2BSink,--wrap=CWE191_Integer_Underflow__int_fscanf_sub_64b_goodB2GSink -lcmocka -o fuzz_good

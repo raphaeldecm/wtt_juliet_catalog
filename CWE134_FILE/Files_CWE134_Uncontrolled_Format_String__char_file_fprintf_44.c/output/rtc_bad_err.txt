@@ -1,0 +1,9 @@
+In file included from testers/tester_wtt_CWE134_bad_rtc.c:9:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_44.c: In function ‘badSink’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_44.c:35:5: warning: format not a string literal and no format arguments [-Wformat-security]
+   35 |     fprintf(stdout, data);
+      |     ^~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_44.c: In function ‘goodG2BSink’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_44.c:78:5: warning: format not a string literal and no format arguments [-Wformat-security]
+   78 |     fprintf(stdout, data);
+      |     ^~~~~~~

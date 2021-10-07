@@ -1,0 +1,4062 @@
+#id:1#
+#input:0#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:2#
+#input:99#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:3#
+#input:77#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:4#
+#input:8#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:5#
+#input:4#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:6#
+#input:2#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:7#
+#input:1#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:8#
+#input:6#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:9#
+#input:3#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:10#
+#input:5#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:11#
+#input:7#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:12#
+#input:9#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:13#
+#input:500#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:14#
+#input:10#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:15#
+#input:33#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:16#
+#input:11111111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:17#
+#input:111111111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:18#
+#input:44#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:19#
+#input:7777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:20#
+#input:1111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:21#
+#input:19#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:22#
+#input:89#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:23#
+#input:91#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:24#
+#input:98#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:25#
+#input:59#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:26#
+#input:95#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:27#
+#input:69#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:28#
+#input:96#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:29#
+#input:79#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:30#
+#input:49#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:31#
+#input:39#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:32#
+#input:29#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:33#
+#input:-9#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:34#
+#input:97#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:35#
+#input:94#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:36#
+#input:93#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:37#
+#input:92#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:38#
+#input:90#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:39#
+#input:9223372036854775807#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:40#
+#input:999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:41#
+#input:22#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:42#
+#input:999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:43#
+#input:99999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:44#
+#input:199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:45#
+#input:99999999999999489#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:46#
+#input:48#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:47#
+#input:9999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:48#
+#input:555#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:49#
+#input:999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:50#
+#input:99999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:51#
+#input:929#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:52#
+#input:99999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:53#
+#input:11#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:54#
+#input:990#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:55#
+#input:99998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:56#
+#input:9988#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:57#
+#input:99999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:58#
+#input:999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:59#
+#input:12#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:60#
+#input:999999999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:61#
+#input:9999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:62#
+#input:9999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:63#
+#input:9999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:64#
+#input:999999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:65#
+#input:9999999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:66#
+#input:99999999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:67#
+#input:998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:68#
+#input:9998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:69#
+#input:999998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:70#
+#input:9999998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:71#
+#input:99999998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:72#
+#input:999999998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:73#
+#input:9999999998#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:74#
+#input:99999999998#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:75#
+#input:999999999998#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:76#
+#input:9999999999998#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:77#
+#input:99999999999998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:78#
+#input:999999999999998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:79#
+#input:9999999999999998#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:80#
+#input:99999999999999998#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:81#
+#input:999999999999999998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:82#
+#input:-9223372036854775808#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:83#
+#input:95999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:84#
+#input:9991#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:85#
+#input:9949799#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:86#
+#input:99919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:87#
+#input:98999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:88#
+#input:992999998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:89#
+#input:9199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:90#
+#input:99999999299#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:91#
+#input:969#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:92#
+#input:99299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:93#
+#input:889#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:94#
+#input:995#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:95#
+#input:99992#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:96#
+#input:9909999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:97#
+#input:99999999989#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:98#
+#input:9999999909#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:99#
+#input:9099999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:100#
+#input:99993899999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:101#
+#input:99999996#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:102#
+#input:99999999999996#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:103#
+#input:99999999999899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:104#
+#input:3999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:105#
+#input:999999899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:106#
+#input:3333333333#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:107#
+#input:9996#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:108#
+#input:944449#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:109#
+#input:37#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:110#
+#input:57#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:111#
+#input:67#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:112#
+#input:73#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:113#
+#input:75#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:114#
+#input:76#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:115#
+#input:17#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:116#
+#input:47#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:117#
+#input:71#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:118#
+#input:74#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:119#
+#input:87#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:120#
+#input:78#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:121#
+#input:27#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:122#
+#input:-7#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:123#
+#input:72#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:124#
+#input:70#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:125#
+#input:77777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:126#
+#input:727#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:127#
+#input:777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:128#
+#input:748#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:129#
+#input:7777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:130#
+#input:36#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:131#
+#input:7788#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:132#
+#input:999999099909999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:133#
+#input:9399399999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:134#
+#input:99999999999999949#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:135#
+#input:929999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:136#
+#input:9999992999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:137#
+#input:95599#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:138#
+#input:191#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:139#
+#input:777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:140#
+#input:98999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:141#
+#input:9299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:142#
+#input:9919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:143#
+#input:3333#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:144#
+#input:999959#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:145#
+#input:99999999949999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:146#
+#input:33333#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:147#
+#input:90400#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:148#
+#input:1999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:149#
+#input:999599999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:150#
+#input:99199999739#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:151#
+#input:99999919999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:152#
+#input:999979999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:153#
+#input:99994#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:154#
+#input:6649#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:155#
+#input:989#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:156#
+#input:599#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:157#
+#input:80#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:158#
+#input:88#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:159#
+#input:677#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:160#
+#input:77777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:161#
+#input:773#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:162#
+#input:99999979#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:163#
+#input:979#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:164#
+#input:98999999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:165#
+#input:49999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:166#
+#input:19999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:167#
+#input:919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:168#
+#input:9919199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:169#
+#input:777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:170#
+#input:9990#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:171#
+#input:9999999997999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:172#
+#input:9999979#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:173#
+#input:990909999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:174#
+#input:-9999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:175#
+#input:999999999999299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:176#
+#input:-9999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:177#
+#input:9199999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:178#
+#input:99199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:179#
+#input:77777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:180#
+#input:99999969999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:181#
+#input:949999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:182#
+#input:9929#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:183#
+#input:9899999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:184#
+#input:9999939999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:185#
+#input:91999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:186#
+#input:999999939#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:187#
+#input:99929#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:188#
+#input:99999995999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:189#
+#input:9999999999990#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:190#
+#input:9979#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:191#
+#input:962#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:192#
+#input:999996#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:193#
+#input:100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:194#
+#input:40#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:195#
+#input:77777777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:196#
+#input:89999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:197#
+#input:9999999399#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:198#
+#input:19999999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:199#
+#input:999699#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:200#
+#input:99999991#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:201#
+#input:9399999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:202#
+#input:99989#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:203#
+#input:999999998999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:204#
+#input:20#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:205#
+#input:4444444444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:206#
+#input:111911#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:207#
+#input:6699#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:208#
+#input:77777777777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:209#
+#input:7777777777777771777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:210#
+#input:999999999995999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:211#
+#input:9999999399999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:212#
+#input:999991999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:213#
+#input:999991#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:214#
+#input:999999991999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:215#
+#input:997#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:216#
+#input:9999997#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:217#
+#input:9996999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:218#
+#input:917#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:219#
+#input:999999999999919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:220#
+#input:49949999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:221#
+#input:58#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:222#
+#input:66#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:223#
+#input:400#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:224#
+#input:3333333333333#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:225#
+#input:777477#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:226#
+#input:4464444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:227#
+#input:4444444444444444444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:228#
+#input:777777777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:229#
+#input:9909#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:230#
+#input:99999999979#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:231#
+#input:558555555#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:232#
+#input:999899999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:233#
+#input:999099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:234#
+#input:7777777777#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:235#
+#input:577#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:236#
+#input:8888#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:237#
+#input:99099999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:238#
+#input:899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:239#
+#input:799999999799#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:240#
+#input:991999999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:241#
+#input:9999999999997#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:242#
+#input:999979#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:243#
+#input:7999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:244#
+#input:7770#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:245#
+#input:1999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:246#
+#input:99999993999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:247#
+#input:9999999999999997#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:248#
+#input:1991#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:249#
+#input:9959#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:250#
+#input:9993999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:251#
+#input:44444444444#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:252#
+#input:909#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:253#
+#input:555555555555#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:254#
+#input:9999999869999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:255#
+#input:900#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:256#
+#input:999999199999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:257#
+#input:99999999969#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:258#
+#input:991994995999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:259#
+#input:9989#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:260#
+#input:93999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:261#
+#input:99099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:262#
+#input:9999998999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:263#
+#input:15#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:264#
+#input:888#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:265#
+#input:555555#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:266#
+#input:77077#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:267#
+#input:7727777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:268#
+#input:996#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:269#
+#input:9799#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:270#
+#input:999990#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:271#
+#input:39999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:272#
+#input:9999990999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:273#
+#input:939999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:274#
+#input:7777777777777#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:275#
+#input:3999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:276#
+#input:29999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:277#
+#input:9939999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:278#
+#input:999999994999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:279#
+#input:9004#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:280#
+#input:82#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:281#
+#input:999999999999999299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:282#
+#input:999919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:283#
+#input:999999799#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:284#
+#input:9899999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:285#
+#input:199999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:286#
+#input:9999999199999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:287#
+#input:229#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:288#
+#input:99990#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:289#
+#input:989999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:290#
+#input:99999999995999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:291#
+#input:111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:292#
+#input:55#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:293#
+#input:99699999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:294#
+#input:9999919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:295#
+#input:999999999999979#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:296#
+#input:299999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:297#
+#input:99999989#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:298#
+#input:99979#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:299#
+#input:999199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:300#
+#input:9999999992#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:301#
+#input:99999929999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:302#
+#input:299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:303#
+#input:5555#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:304#
+#input:2999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:305#
+#input:9499#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:306#
+#input:5999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:307#
+#input:59999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:308#
+#input:97999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:309#
+#input:399#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:310#
+#input:9999999899#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:311#
+#input:64#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:312#
+#input:32#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:313#
+#input:999989#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:314#
+#input:34#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:315#
+#input:52#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:316#
+#input:5555555#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:317#
+#input:7797#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:318#
+#input:99999099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:319#
+#input:99999899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:320#
+#input:899999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:321#
+#input:999999999999999939#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:322#
+#input:93999999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:323#
+#input:93999979999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:324#
+#input:99699999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:325#
+#input:9999599#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:326#
+#input:999999999919999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:327#
+#input:3999993#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:328#
+#input:7292#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:329#
+#input:7676#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:330#
+#input:99991#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:331#
+#input:99998999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:332#
+#input:66666666666666#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:333#
+#input:199999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:334#
+#input:949#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:335#
+#input:99995999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:336#
+#input:888288#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:337#
+#input:88888888888888888#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:338#
+#input:7777779#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:339#
+#input:277#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:340#
+#input:50#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:341#
+#input:2929#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:342#
+#input:43#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:343#
+#input:2222202222222#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:344#
+#input:66666666#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:345#
+#input:99999999999929#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:346#
+#input:999999991999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:347#
+#input:999099999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:348#
+#input:8888888888#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:349#
+#input:99999799999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:350#
+#input:999949999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:351#
+#input:999599#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:352#
+#input:999899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:353#
+#input:2030#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:354#
+#input:77773#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:355#
+#input:99699#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:356#
+#input:2998#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:357#
+#input:9999999999988#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:358#
+#input:99111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:359#
+#input:97777777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:360#
+#input:9999499999929#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:361#
+#input:9999299999919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:362#
+#input:999991999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:363#
+#input:6666#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:364#
+#input:444444444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:365#
+#input:9999939#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:366#
+#input:99999994#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:367#
+#input:449#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:368#
+#input:9699999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:369#
+#input:2222222222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:370#
+#input:939#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:371#
+#input:86#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:372#
+#input:99599999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:373#
+#input:999959999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:374#
+#input:9949#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:375#
+#input:999699999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:376#
+#input:9999969999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:377#
+#input:811#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:378#
+#input:99199999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:379#
+#input:-999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:380#
+#input:99959#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:381#
+#input:899999998999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:382#
+#input:6999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:383#
+#input:9999999999999919#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:384#
+#input:999999919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:385#
+#input:222222622222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:386#
+#input:994#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:387#
+#input:8999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:388#
+#input:9999999919999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:389#
+#input:99999992999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:390#
+#input:999998999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:391#
+#input:65#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:392#
+#input:999992989#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:393#
+#input:99939#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:394#
+#input:9099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:395#
+#input:999969999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:396#
+#input:19999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:397#
+#input:6999999999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:398#
+#input:9999990999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:399#
+#input:5511511#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:400#
+#input:99899999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:401#
+#input:9999199999919999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:402#
+#input:9999999999399999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:403#
+#input:9999999199999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:404#
+#input:9999999999993999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:405#
+#input:99899999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:406#
+#input:995999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:407#
+#input:79999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:408#
+#input:222222222222222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:409#
+#input:55555#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:410#
+#input:7377#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:411#
+#input:44444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:412#
+#input:9919999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:413#
+#input:991999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:414#
+#input:9999399999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:415#
+#input:9991999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:416#
+#input:99999499999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:417#
+#input:999998999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:418#
+#input:56#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:419#
+#input:99999199999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:420#
+#input:737#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:421#
+#input:9899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:422#
+#input:7757#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:423#
+#input:999909999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:424#
+#input:91999999199999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:425#
+#input:9999599999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:426#
+#input:9999299999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:427#
+#input:9999919999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:428#
+#input:7199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:429#
+#input:99996999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:430#
+#input:993999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:431#
+#input:44444444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:432#
+#input:63#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:433#
+#input:8808#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:434#
+#input:9999199939#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:435#
+#input:999899999989#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:436#
+#input:99999959#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:437#
+#input:666666#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:438#
+#input:967#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:439#
+#input:666#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:440#
+#input:991#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:441#
+#input:999299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:442#
+#input:9999999999999995#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:443#
+#input:994449944744#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:444#
+#input:7777777777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:445#
+#input:377#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:446#
+#input:99999999999900#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:447#
+#input:9497#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:448#
+#input:699999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:449#
+#input:9991991999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:450#
+#input:992999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:451#
+#input:99996999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:452#
+#input:799999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:453#
+#input:998919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:454#
+#input:9991999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:455#
+#input:999997999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:456#
+#input:-99999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:457#
+#input:9799999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:458#
+#input:999994#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:459#
+#input:3333333#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:460#
+#input:31#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:461#
+#input:41#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:462#
+#input:779#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:463#
+#input:599999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:464#
+#input:999999999979#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:465#
+#input:99999999899999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:466#
+#input:999999959#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:467#
+#input:197#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:468#
+#input:9939999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:469#
+#input:100000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:470#
+#input:434#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:471#
+#input:9911#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:472#
+#input:5599#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:473#
+#input:98388#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:474#
+#input:9999969#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:475#
+#input:9999999199#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:476#
+#input:99999999999911111#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:477#
+#input:98999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:478#
+#input:777737777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:479#
+#input:7733#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:480#
+#input:333#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:481#
+#input:77777777777770777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:482#
+#input:94999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:483#
+#input:444444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:484#
+#input:2999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:485#
+#input:999999999999899999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:486#
+#input:99999989999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:487#
+#input:9994#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:488#
+#input:9799999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:489#
+#input:999999993#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:490#
+#input:6661#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:491#
+#input:75777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:492#
+#input:999999979999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:493#
+#input:9999992#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:494#
+#input:222222222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:495#
+#input:30000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:496#
+#input:4477#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:497#
+#input:99999999799#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:498#
+#input:992959#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:499#
+#input:99999959999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:500#
+#input:97999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:501#
+#input:9999999899999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:502#
+#input:77777777777778#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:503#
+#input:-8#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:504#
+#input:99999999999949#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:505#
+#input:9999995#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:506#
+#input:99799999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:507#
+#input:13#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:508#
+#input:8888888888888888888#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:509#
+#input:7777777777777773#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:510#
+#input:99999996999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:511#
+#input:99990999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:512#
+#input:823#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:513#
+#input:990999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:514#
+#input:59999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:515#
+#input:777762#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:516#
+#input:3333333333333333333#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:517#
+#input:899999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:518#
+#input:8999999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:519#
+#input:99999996999989999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:520#
+#input:9699#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:521#
+#input:313#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:522#
+#input:959#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:523#
+#input:299999999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:524#
+#input:9989999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:525#
+#input:999995999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:526#
+#input:9919999999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:527#
+#input:344#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:528#
+#input:777777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:529#
+#input:9999989#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:530#
+#input:999919999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:531#
+#input:9989999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:532#
+#input:99999995#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:533#
+#input:499999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:534#
+#input:999999989999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:535#
+#input:999999919999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:536#
+#input:999999969999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:537#
+#input:778#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:538#
+#input:6666666666666667#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:539#
+#input:99899899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:540#
+#input:999999992999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:541#
+#input:9999999959999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:542#
+#input:444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:543#
+#input:766666#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:544#
+#input:999989999989999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:545#
+#input:979999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:546#
+#input:22222222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:547#
+#input:18#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:548#
+#input:99099999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:549#
+#input:9999599999999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:550#
+#input:9999959#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:551#
+#input:99949999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:552#
+#input:9999999939999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:553#
+#input:999699999999#
+
+[  ERROR   ] --- atoi(buf) > 0
+[   LINE   ] --- /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE190_bad_ft.c:66: error: Failure!
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:554#
+#input:999999199#
+
+[  PASSED  ] 1 test(s).
+############################
+

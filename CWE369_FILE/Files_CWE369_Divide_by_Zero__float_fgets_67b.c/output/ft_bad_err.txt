@@ -1,0 +1,14 @@
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_ft.c: In function ‘__wrap_fgets’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_ft.c:22:12: warning: returning ‘char * restrict’ from a function with return type ‘char’ makes integer from pointer without a cast [-Wint-conversion]
+   22 |     return __s;
+      |            ^~~
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_ft.c: In function ‘test_juliet_rtc’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_ft.c:32:5: warning: ignoring return value of ‘scanf’, declared with attribute warn_unused_result [-Wunused-result]
+   32 |     scanf("%f\n", &input);
+      |     ^~~~~~~~~~~~~~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_ft.c:44:5: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   44 |     freopen("/dev/null", "a", stdout);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE369_bad_ft.c:50:5: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   50 |     freopen("/dev/tty", "a", stdout);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

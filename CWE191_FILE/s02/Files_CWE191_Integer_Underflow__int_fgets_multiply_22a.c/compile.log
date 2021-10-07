@@ -1,0 +1,13 @@
+CWE191_Integer_Underflow__int_fgets_multiply_22a.c********BAD*********
+******CWE191_Integer_Underflow__int_fgets_multiply_22_bad
+CWE191_Integer_Underflow__int_fgets_multiply_22a.c********GOOD*********
+******goodB2G1
+**** Mock functions: void CWE191_Integer_Underflow__int_fgets_multiply_22_badSink(int data)
+**** Mock functions: void CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G1Sink(int data)
+**** Mock functions: void CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G2Sink(int data)
+**** Mock functions: void CWE191_Integer_Underflow__int_fgets_multiply_22_goodG2BSink(int data)
+################ 
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_badSink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G1Sink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G2Sink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodG2BSink -lcmocka -o good_a.out
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_bad_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_badSink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G1Sink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G2Sink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodG2BSink -lcmocka -o bad_a.out
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_bad_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_badSink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G1Sink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G2Sink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodG2BSink -lcmocka -o fuzz_bad
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE191_good_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_badSink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G1Sink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodB2G2Sink,--wrap=CWE191_Integer_Underflow__int_fgets_multiply_22_goodG2BSink -lcmocka -o fuzz_good
