@@ -6,17 +6,17 @@
 #include <setjmp.h>
 #include <cmocka.h>
 
-//#include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE121_Stack_Based_Buffer_Overflow/s04/CWE121_Stack_Based_Buffer_Overflow__CWE805_char_declare_snprintf_02.c"
 #include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE121_Stack_Based_Buffer_Overflow/wtt/CWE121_Stack_Based_Buffer_Overflow__CWE129_fgets_02.c"
-#include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcasesupport/io.c"
+#include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport/io.c"
 
-#define CHAR_ARRAY_SIZE (3 * sizeof(data) + 2)
-
-char inputBuffer[BUFSIZ];
-
-//Mocked
+//Mocked functions
 //
 //
+
+#define CHAR_ARRAY_SIZE 20
+
+char inputBuffer[CHAR_ARRAY_SIZE] = "";
+
 char __wrap_fgets(char *__restrict __s, int __n, FILE *__restrict __stream)
 {
     strcpy(__s, inputBuffer);
@@ -26,38 +26,36 @@ char __wrap_fgets(char *__restrict __s, int __n, FILE *__restrict __stream)
 static void test_juliet_rtc(void **state)
 {
     (void)state; //unused variable
-
+    
     int data;
-    data = -1;
+    data = 0;
 
-    char input[CHAR_ARRAY_SIZE];
-    scanf("%s\n", &input);
+    scanf("%d\n", &data);
 
-    sprintf(inputBuffer, "%s", input);
+    sprintf(inputBuffer, "%d", data);
 
     FILE *fileAddress;
     fileAddress = fopen("log_afl_bad.txt", "a");
     if (fileAddress != NULL){
-        fprintf(fileAddress, "%s\n", input);
+        fprintf(fileAddress, "%d\n", data);
         fclose(fileAddress);
     }
 
     char buf[BUFSIZ];
     freopen("/dev/null", "a", stdout);
     setbuf(stdout, buf);
-
+    
     CWE121_Stack_Based_Buffer_Overflow__CWE129_fgets_02_bad();
 
     freopen("/dev/tty", "a", stdout);
-
-    data = atoi(buf);
-    int ipt = atoi(input);
     
-    if (ipt >= 0 && ipt < (10)){
-        assert_true(data >= 0);
-    } else {
-        assert_string_equal("ERROR: Array index is out-of-bounds\n", buf);
+    char *pos;
+    if ((pos = strchr(buf, '\n')) != NULL)
+    {
+        *pos = '\0';
     }
+
+    assert_true(1);
 }
 
 int setup(void **state){

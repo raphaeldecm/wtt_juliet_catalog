@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE121_Stack_Based_Buffer_Overflow__CWE129_fgets_65a.c,1.2743,0.0013,0.0013,20.0138,20.0134,1530,1108,33,2
