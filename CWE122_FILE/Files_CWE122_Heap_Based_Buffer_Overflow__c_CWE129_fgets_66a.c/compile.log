@@ -1,0 +1,12 @@
+CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66a.c********BAD*********
+******CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66_bad
+CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66a.c********GOOD*********
+******goodB2G
+**** Mock functions: void CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_badSink(int dataArray[])
+**** Mock functions: void CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodG2BSink(int dataArray[])
+**** Mock functions: void CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodB2GSink(int dataArray[])
+################ 
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE122_good_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_badSink,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodG2BSink,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodB2GSink -lcmocka -o good_a.out
+**** Compile command: gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE122_bad_rtc.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_badSink,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodG2BSink,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodB2GSink -lcmocka -o bad_a.out
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE122_bad_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_badSink,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodG2BSink,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodB2GSink -lcmocka -o fuzz_bad
+**** Compile command: afl-gcc /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE122_good_ft.c -I/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcasesupport -Wl,--wrap=fgets,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_badSink,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodG2BSink,--wrap=CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b_goodB2GSink -lcmocka -o fuzz_good

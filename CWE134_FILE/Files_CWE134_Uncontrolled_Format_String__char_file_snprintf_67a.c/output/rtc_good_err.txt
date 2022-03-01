@@ -1,0 +1,4 @@
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE134_good_rtc.c: In function ‘__wrap_CWE134_Uncontrolled_Format_String__char_file_snprintf_67b_badSink’:
+/home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE134_good_rtc.c:16:1: warning: format not a string literal and no format arguments [-Wformat-security]
+   16 | void __wrap_CWE134_Uncontrolled_Format_String__char_file_snprintf_67b_badSink(CWE134_Uncontrolled_Format_String__char_file_snprintf_67_structType myStruct){char * data = myStruct.structFirst; char dest[100] = "";SNPRINTF(dest, 100-1, data);printLine(dest); }
+      | ^~~~

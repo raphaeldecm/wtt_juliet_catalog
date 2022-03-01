@@ -6,10 +6,19 @@
 #include <setjmp.h>
 #include <cmocka.h>
 
-#include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_04.c"
+#include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_04.c"
 #include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcasesupport/io.c"
 
 #define LOGFILE "/tmp/file.txt"
+int __wrap_globalReturnsTrueOrFalse() 
+{
+    //return (rand() % 2);
+    return 1;
+}
+
+#define CHAR_ARRAY_SIZE 20
+
+char inputBuffer[CHAR_ARRAY_SIZE] = "";
 
 static void test_juliet_rtc(void **state)
 {
@@ -25,7 +34,6 @@ static void test_juliet_rtc(void **state)
     }
 
     char buf[BUFSIZ];
-
     freopen("/dev/null", "a", stdout);
     setbuf(stdout, buf);
 

@@ -1,0 +1,4709 @@
+#id:1#
+#input:-10#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:2#
+#input:0#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:3#
+#input:10#
+
+malloc(): invalid size (unsorted)
+############################
+
+#id:4#
+#input:-90#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:5#
+#input:-50#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:6#
+#input:-30#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:7#
+#input:-1#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:8#
+#input:-18#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:9#
+#input:-14#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:10#
+#input:-12#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:11#
+#input:-11#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:12#
+#input:510#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:13#
+#input:-70#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:14#
+#input:-20#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:15#
+#input:-16#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:16#
+#input:-13#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:17#
+#input:310#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:18#
+#input:-6#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:19#
+#input:-2#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:20#
+#input:110#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:21#
+#input:210#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:22#
+#input:410#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:23#
+#input:610#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:24#
+#input:710#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:25#
+#input:810#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:26#
+#input:910#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:27#
+#input:-40#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:28#
+#input:-60#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:29#
+#input:-80#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:30#
+#input:-15#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:31#
+#input:-17#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:32#
+#input:-19#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:33#
+#input:1#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:34#
+#input:91#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:35#
+#input:2#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:36#
+#input:81#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:37#
+#input:-7#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:38#
+#input:5#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:39#
+#input:-110#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:40#
+#input:7#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:41#
+#input:51#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:42#
+#input:100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:43#
+#input:8#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:44#
+#input:6#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:45#
+#input:99#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:46#
+#input:9#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:47#
+#input:11#
+
+malloc(): invalid size (unsorted)
+############################
+
+#id:48#
+#input:18#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:49#
+#input:517#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:50#
+#input:777777777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:51#
+#input:777777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:52#
+#input:-3#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:53#
+#input:4#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:54#
+#input:3#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:55#
+#input:-1160#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:56#
+#input:444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:57#
+#input:66#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:58#
+#input:550#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:59#
+#input:17#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:60#
+#input:70#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:61#
+#input:61#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:62#
+#input:55555#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:63#
+#input:32#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:64#
+#input:307163591#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:65#
+#input:22#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:66#
+#input:19#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:67#
+#input:1611#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:68#
+#input:-1111111111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:69#
+#input:55#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:70#
+#input:888#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:71#
+#input:777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:72#
+#input:-8#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:73#
+#input:35555555#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:74#
+#input:44#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:75#
+#input:-4#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:76#
+#input:111111#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:77#
+#input:6665#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:78#
+#input:999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:79#
+#input:77777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:80#
+#input:7777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:81#
+#input:37777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:82#
+#input:57777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:83#
+#input:67777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:84#
+#input:73777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:85#
+#input:75777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:86#
+#input:76777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:87#
+#input:77#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:88#
+#input:77377#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:89#
+#input:77577#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:90#
+#input:77677#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:91#
+#input:77737#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:92#
+#input:77757#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:93#
+#input:77767#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:94#
+#input:77773#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:95#
+#input:77775#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:96#
+#input:77776#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:97#
+#input:777770#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:98#
+#input:17777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:99#
+#input:47777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:100#
+#input:71777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:101#
+#input:74777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:102#
+#input:76#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:103#
+#input:77177#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:104#
+#input:77477#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:105#
+#input:776#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:106#
+#input:77717#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:107#
+#input:77747#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:108#
+#input:7776#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:109#
+#input:77771#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:110#
+#input:77774#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:111#
+#input:87777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:112#
+#input:78777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:113#
+#input:74#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:114#
+#input:77877#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:115#
+#input:770#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:116#
+#input:774#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:117#
+#input:77787#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:118#
+#input:7770#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:119#
+#input:7774#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:120#
+#input:77778#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:121#
+#input:77770#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:122#
+#input:97777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:123#
+#input:27777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:124#
+#input:-7777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:125#
+#input:79777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:126#
+#input:72777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:127#
+#input:70777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:128#
+#input:77977#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:129#
+#input:77277#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:130#
+#input:77077#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:131#
+#input:77797#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:132#
+#input:77727#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:133#
+#input:77707#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:134#
+#input:77779#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:135#
+#input:77772#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:136#
+#input:777771#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:137#
+#input:777772#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:138#
+#input:777773#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:139#
+#input:-623494942#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:140#
+#input:72797#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:141#
+#input:7777777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:142#
+#input:7975#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:143#
+#input:767#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:144#
+#input:775#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:145#
+#input:7770777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:146#
+#input:575777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:147#
+#input:-97#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:148#
+#input:69#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:149#
+#input:67#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:150#
+#input:757777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:151#
+#input:388697201#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:152#
+#input:777776#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:153#
+#input:577#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:154#
+#input:770777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:155#
+#input:3333#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:156#
+#input:887#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:157#
+#input:37737#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:158#
+#input:9999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:159#
+#input:20#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:160#
+#input:-276447232#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:161#
+#input:30#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:162#
+#input:1111111#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:163#
+#input:-800000010#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:164#
+#input:-77#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:165#
+#input:-171#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:166#
+#input:77676#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:167#
+#input:7737#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:168#
+#input:-777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:169#
+#input:-797#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:170#
+#input:-812156815#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:171#
+#input:66777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:172#
+#input:-7727#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:173#
+#input:90#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:174#
+#input:400#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:175#
+#input:3000000#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:176#
+#input:1777717777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:177#
+#input:77777777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:178#
+#input:7676#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:179#
+#input:790#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:180#
+#input:71#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:181#
+#input:21#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:182#
+#input:111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:183#
+#input:-9#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:184#
+#input:-21#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:185#
+#input:747#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:186#
+#input:31#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:187#
+#input:778#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:188#
+#input:797#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:189#
+#input:468366449#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:190#
+#input:-777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:191#
+#input:-407995279#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:192#
+#input:777777771#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:193#
+#input:377#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:194#
+#input:779#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:195#
+#input:7710#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:196#
+#input:717100#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:197#
+#input:7210#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:198#
+#input:700#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:199#
+#input:59#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:200#
+#input:760#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:201#
+#input:1111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:202#
+#input:740#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:203#
+#input:1409865407#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:204#
+#input:-7747#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:205#
+#input:78#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:206#
+#input:-75#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:207#
+#input:79#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:208#
+#input:-77777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:209#
+#input:80#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:210#
+#input:7377#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:211#
+#input:100000#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:212#
+#input:6100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:213#
+#input:-1903332922#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:214#
+#input:717#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:215#
+#input:91910#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:216#
+#input:771#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:217#
+#input:711#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:218#
+#input:773#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:219#
+#input:7677#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:220#
+#input:73#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:221#
+#input:-388697201#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:222#
+#input:5777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:223#
+#input:-767#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:224#
+#input:877#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:225#
+#input:146858894#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:226#
+#input:40#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:227#
+#input:27#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:228#
+#input:96#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:229#
+#input:884#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:230#
+#input:8888888#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:231#
+#input:-822556919#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:232#
+#input:66666#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:233#
+#input:750#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:234#
+#input:1010#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:235#
+#input:12#
+
+malloc(): unsorted double linked list corrupted
+############################
+
+#id:236#
+#input:215007513#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:237#
+#input:14#
+
+############################
+
+#id:238#
+#input:-747#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:239#
+#input:8777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:240#
+#input:666#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:241#
+#input:-7776#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:242#
+#input:7757#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:243#
+#input:7477#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:244#
+#input:72#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:245#
+#input:477774#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:246#
+#input:323#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:247#
+#input:37#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:248#
+#input:77716#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:249#
+#input:677#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:250#
+#input:-181111110#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:251#
+#input:1187863185#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:252#
+#input:-7777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:253#
+#input:-7767#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:254#
+#input:-772#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:255#
+#input:-5777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:256#
+#input:-77772#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:257#
+#input:-73#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:258#
+#input:47#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:259#
+#input:277#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:260#
+#input:87#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:261#
+#input:-1282759858#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:262#
+#input:-754557839#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:263#
+#input:11111111#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:264#
+#input:7711#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:265#
+#input:1786753479#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:266#
+#input:-1837658568#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:267#
+#input:-3777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:268#
+#input:7777776#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:269#
+#input:177#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:270#
+#input:777787#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:271#
+#input:474#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:272#
+#input:7977#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:273#
+#input:-7707#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:274#
+#input:777577777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:275#
+#input:858#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:276#
+#input:7277#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:277#
+#input:-5#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:278#
+#input:-2072745074#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:279#
+#input:-91#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:280#
+#input:9315#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:281#
+#input:-76#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:282#
+#input:-737#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:283#
+#input:-47#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:284#
+#input:-7377#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:285#
+#input:6666666#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:286#
+#input:-677#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:287#
+#input:1111111111#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:288#
+#input:57#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:289#
+#input:-10010#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:290#
+#input:-1773790777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:291#
+#input:-3010#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:292#
+#input:-7772#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:293#
+#input:97#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:294#
+#input:-7577#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:295#
+#input:7555577#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:296#
+#input:7767#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:297#
+#input:33733333#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:298#
+#input:-77770#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:299#
+#input:782#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:300#
+#input:6777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:301#
+#input:-37#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:302#
+#input:2222222#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:303#
+#input:266148977#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:304#
+#input:690906908#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:305#
+#input:7144444#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:306#
+#input:-30716359#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:307#
+#input:77547#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:308#
+#input:-757#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:309#
+#input:407995279#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:310#
+#input:75#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:311#
+#input:7577577#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:312#
+#input:-78#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:313#
+#input:4444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:314#
+#input:77587#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:315#
+#input:7772#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:316#
+#input:170010#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:317#
+#input:60#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:318#
+#input:51100#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:319#
+#input:-1651507200#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:320#
+#input:98#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:321#
+#input:77777776#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:322#
+#input:75500#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:323#
+#input:-558038585#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:324#
+#input:-36#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:325#
+#input:444414#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:326#
+#input:845094001#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:327#
+#input:11111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:328#
+#input:33#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:329#
+#input:-1777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:330#
+#input:-7774#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:331#
+#input:772#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:332#
+#input:757#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:333#
+#input:-9077#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:334#
+#input:376#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:335#
+#input:-877#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:336#
+#input:5555#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:337#
+#input:623009792#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:338#
+#input:88#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:339#
+#input:7171#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:340#
+#input:151111#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:341#
+#input:-1010#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:342#
+#input:-1305424328#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:343#
+#input:537#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:344#
+#input:-7773#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:345#
+#input:3777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:346#
+#input:2220#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:347#
+#input:77767776#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:348#
+#input:88888888#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:349#
+#input:71710#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:350#
+#input:888888#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:351#
+#input:640#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:352#
+#input:-776#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:353#
+#input:77076#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:354#
+#input:-57#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:355#
+#input:228#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:356#
+#input:477#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:357#
+#input:737#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:358#
+#input:7787#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:359#
+#input:7773#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:360#
+#input:712#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:361#
+#input:16#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:362#
+#input:-111111118#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:363#
+#input:-7477#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:364#
+#input:-4737#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:365#
+#input:6666#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:366#
+#input:-6777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:367#
+#input:-577777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:368#
+#input:-7730#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:369#
+#input:66666656#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:370#
+#input:7107#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:371#
+#input:711111110#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:372#
+#input:11161#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:373#
+#input:41#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:374#
+#input:7707#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:375#
+#input:7775#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:376#
+#input:222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:377#
+#input:53#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:378#
+#input:-774#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:379#
+#input:730#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:380#
+#input:719#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:381#
+#input:-1116077170#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:382#
+#input:10000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:383#
+#input:7771#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:384#
+#input:-77777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:385#
+#input:26614897#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:386#
+#input:-7177#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:387#
+#input:468366389#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:388#
+#input:76577#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:389#
+#input:-7737#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:390#
+#input:8888#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:391#
+#input:417#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:392#
+#input:67757#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:393#
+#input:77373#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:394#
+#input:-1100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:395#
+#input:900#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:396#
+#input:-775#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:397#
+#input:149477148#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:398#
+#input:-87#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:399#
+#input:-770#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:400#
+#input:-444#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:401#
+#input:447#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:402#
+#input:-7777776#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:403#
+#input:13#
+
+malloc(): unsorted double linked list corrupted
+############################
+
+#id:404#
+#input:7100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:405#
+#input:-150#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:406#
+#input:44444#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:407#
+#input:1777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:408#
+#input:337#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:409#
+#input:777776777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:410#
+#input:9777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:411#
+#input:77706#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:412#
+#input:-1285418553#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:413#
+#input:1100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:414#
+#input:214#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:415#
+#input:72776#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:416#
+#input:787#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:417#
+#input:977#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:418#
+#input:1777777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:419#
+#input:-1633477519#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:420#
+#input:774740#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:421#
+#input:2777677#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:422#
+#input:-577#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:423#
+#input:4777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:424#
+#input:-1183188196#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:425#
+#input:68#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:426#
+#input:77010010#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:427#
+#input:7110#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:428#
+#input:7177110#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:429#
+#input:-111111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:430#
+#input:5555555#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:431#
+#input:-1026405035#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:432#
+#input:333#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:433#
+#input:43#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:434#
+#input:175#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:435#
+#input:555555#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:436#
+#input:471#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:437#
+#input:71775771#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:438#
+#input:707#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:439#
+#input:279#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:440#
+#input:467366449#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:441#
+#input:670#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:442#
+#input:6746#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:443#
+#input:1370855716#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:444#
+#input:-101#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:445#
+#input:-77677#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:446#
+#input:275#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:447#
+#input:7176#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:448#
+#input:300#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:449#
+#input:-82#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:450#
+#input:-7077#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:451#
+#input:77047#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:452#
+#input:7757577#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:453#
+#input:28#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:454#
+#input:716#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:455#
+#input:713#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:456#
+#input:440#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:457#
+#input:7570#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:458#
+#input:222222#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:459#
+#input:-72#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:460#
+#input:767777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:461#
+#input:6767#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:462#
+#input:352#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:463#
+#input:-2052810070#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:464#
+#input:3772#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:465#
+#input:50#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:466#
+#input:83#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:467#
+#input:727#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:468#
+#input:114#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:469#
+#input:120#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:470#
+#input:-477#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:471#
+#input:-7770#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:472#
+#input:-100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:473#
+#input:-1773790778#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:474#
+#input:73377#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:475#
+#input:-7775#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:476#
+#input:-27#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:477#
+#input:-771#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:478#
+#input:67774#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:479#
+#input:22222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:480#
+#input:5773777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:481#
+#input:-4777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:482#
+#input:7717#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:483#
+#input:71711#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:484#
+#input:-277#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:485#
+#input:707770000#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:486#
+#input:393#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:487#
+#input:7779#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:488#
+#input:444444446#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:489#
+#input:1000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:490#
+#input:-1000000000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:491#
+#input:77357#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:492#
+#input:82#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:493#
+#input:76767#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:494#
+#input:-26614897#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:495#
+#input:77177717#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:496#
+#input:777779#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:497#
+#input:777767#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:498#
+#input:702#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:499#
+#input:11000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:500#
+#input:-77771#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:501#
+#input:7778#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:502#
+#input:-812156881#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:503#
+#input:-1156317184#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:504#
+#input:4000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:505#
+#input:766#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:506#
+#input:736#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:507#
+#input:62#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:508#
+#input:777733#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:509#
+#input:677776777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:510#
+#input:999999#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:511#
+#input:-2144822159#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:512#
+#input:77777745#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:513#
+#input:-1639605142#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:514#
+#input:7000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:515#
+#input:-377#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:516#
+#input:-7277#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:517#
+#input:7727#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:518#
+#input:-777774#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:519#
+#input:777775#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:520#
+#input:78776#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:521#
+#input:7177#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:522#
+#input:312#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:523#
+#input:11101#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:524#
+#input:33333333#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:525#
+#input:899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:526#
+#input:-67#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:527#
+#input:2222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:528#
+#input:49777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:529#
+#input:99999999#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:530#
+#input:777778#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:531#
+#input:1316134902#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:532#
+#input:-77773#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:533#
+#input:404044#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:534#
+#input:777763#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:535#
+#input:710770#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:536#
+#input:-1522677988#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:537#
+#input:-94#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:538#
+#input:-717#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:539#
+#input:27737#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:540#
+#input:-773#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:541#
+#input:268148977#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:542#
+#input:35#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:543#
+#input:1571#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:544#
+#input:-7742#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:545#
+#input:-977#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:546#
+#input:-727#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:547#
+#input:-778#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:548#
+#input:-812232592#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:549#
+#input:-777777777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:550#
+#input:-7779#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:551#
+#input:177777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:552#
+#input:5777777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:553#
+#input:7578#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:554#
+#input:-7726#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:555#
+#input:-7677#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:556#
+#input:77777779#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:557#
+#input:600#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:558#
+#input:-812157815#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:559#
+#input:710710#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:560#
+#input:-7757#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:561#
+#input:-7797#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:562#
+#input:-777737#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:563#
+#input:90000#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:564#
+#input:-846706916#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:565#
+#input:1303176078#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:566#
+#input:4444445#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:567#
+#input:2062812956#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:568#
+#input:15#
+
+############################
+
+#id:569#
+#input:7776666#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:570#
+#input:747385742#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:571#
+#input:66666666#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:572#
+#input:101#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:573#
+#input:66677#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:574#
+#input:39#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:575#
+#input:-7357#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:576#
+#input:-77776#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:577#
+#input:89#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:578#
+#input:777717#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:579#
+#input:7575#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:580#
+#input:-1853460025#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:581#
+#input:1907818#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:582#
+#input:-1111111110#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:583#
+#input:-623494941#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:584#
+#input:-19110#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:585#
+#input:34#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:586#
+#input:-11000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:587#
+#input:558038586#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:588#
+#input:774777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:589#
+#input:73737#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:590#
+#input:7877#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:591#
+#input:7272#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:592#
+#input:733#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:593#
+#input:-1900#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:594#
+#input:-468366449#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:595#
+#input:97776#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:596#
+#input:7577#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:597#
+#input:49#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:598#
+#input:974#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:599#
+#input:-1223331385#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:600#
+#input:477477#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:601#
+#input:777577#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:602#
+#input:-8777#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:603#
+#input:877877#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:604#
+#input:7787777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:605#
+#input:99999#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:606#
+#input:107#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:607#
+#input:7010#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:608#
+#input:93#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:609#
+#input:767776777#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:610#
+#input:311#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:611#
+#input:8090#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:612#
+#input:111111111#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:613#
+#input:-111111111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:614#
+#input:-7717#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:615#
+#input:74770#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:616#
+#input:667#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:617#
+#input:77477477#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:618#
+#input:7373#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:619#
+#input:-1633477526#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:620#
+#input:1071010#
+
+[  ERROR   ] --- Test failed with exception: Segmentation fault(11)
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_juliet_rtc
+
+ 1 FAILED TEST(S)
+############################
+
+#id:621#
+#input:105#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:622#
+#input:-1100100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:623#
+#input:-212#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:624#
+#input:-10000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:625#
+#input:476#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:626#
+#input:-79#
+
+[  PASSED  ] 1 test(s).
+############################
+

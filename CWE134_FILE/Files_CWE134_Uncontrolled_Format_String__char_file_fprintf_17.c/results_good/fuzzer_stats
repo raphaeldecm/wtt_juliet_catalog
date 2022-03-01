@@ -1,9 +1,9 @@
-start_time        : 1628032308
-last_update       : 1628032308
-fuzzer_pid        : 1707733
+start_time        : 1644424972
+last_update       : 1644424972
+fuzzer_pid        : 1943461
 cycles_done       : 0
 execs_done        : 16
-execs_per_sec     : 4000.00
+execs_per_sec     : 3200.00
 paths_total       : 2
 paths_favored     : 1
 paths_found       : 0
@@ -14,7 +14,7 @@ pending_favs      : 1
 pending_total     : 2
 variable_paths    : 0
 stability         : 100.00%
-bitmap_cvg        : 0.03%
+bitmap_cvg        : 0.02%
 unique_crashes    : 0
 unique_hangs      : 0
 last_path         : 0

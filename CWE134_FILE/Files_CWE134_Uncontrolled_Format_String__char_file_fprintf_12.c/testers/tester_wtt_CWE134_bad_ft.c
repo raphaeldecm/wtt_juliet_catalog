@@ -6,7 +6,7 @@
 #include <setjmp.h>
 #include <cmocka.h>
 
-#include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_12.c"
+#include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_12.c"
 #include "/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcasesupport/io.c"
 
 #define LOGFILE "/tmp/file.txt"
@@ -15,20 +15,19 @@ int __wrap_globalReturnsTrueOrFalse()
     //return (rand() % 2);
     return 1;
 }
+
+#define CHAR_ARRAY_SIZE 20
+
+char inputBuffer[CHAR_ARRAY_SIZE] = "";
+
 static void test_juliet_ft(void **state)
 {
     (void)state; //unused variable
 
-    char * data;
-    char dataBuffer[100] = "";
-    data = dataBuffer;
-    size_t dataLen = strlen(data);
-    fgets(data+dataLen, (int)(100-dataLen), stdin);
+    char data[100] = "";
+    
+    scanf("%s\n", &data);
 
-	char *bline;
-    if ((bline = strchr(data, '\n')) != NULL){
-        *bline = '\0';
-    }
 
     FILE *txtFile;
     txtFile = fopen(LOGFILE, "w");
@@ -44,8 +43,7 @@ static void test_juliet_ft(void **state)
         fclose(fileAddress);
     }
 
-    char buf[100];
-
+    char buf[BUFSIZ];
     freopen("/dev/null", "a", stdout);
     setbuf(stdout, buf);
 

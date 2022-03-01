@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fscanf_03.c,1.3421,0.0021,0.0013,20.0126,20.0132,1331,830,30,2

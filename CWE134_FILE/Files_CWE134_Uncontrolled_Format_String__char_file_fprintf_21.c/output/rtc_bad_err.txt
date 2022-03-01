@@ -1,9 +1,9 @@
-In file included from testers/tester_wtt_CWE134_bad_rtc.c:9:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_21.c: In function ‘badSink’:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_21.c:40:9: warning: format not a string literal and no format arguments [-Wformat-security]
+In file included from /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE134_bad_rtc.c:9:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_21.c: In function ‘badSink’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_21.c:40:9: warning: format not a string literal and no format arguments [-Wformat-security]
    40 |         fprintf(stdout, data);
       |         ^~~~~~~
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_21.c: In function ‘goodG2BSink’:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_21.c:174:9: warning: format not a string literal and no format arguments [-Wformat-security]
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_21.c: In function ‘goodG2BSink’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_21.c:174:9: warning: format not a string literal and no format arguments [-Wformat-security]
   174 |         fprintf(stdout, data);
       |         ^~~~~~~

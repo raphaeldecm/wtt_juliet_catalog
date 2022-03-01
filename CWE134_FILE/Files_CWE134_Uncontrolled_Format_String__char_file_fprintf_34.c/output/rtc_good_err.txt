@@ -1,9 +1,9 @@
-In file included from testers/tester_wtt_CWE134_good_rtc.c:9:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_34.c: In function ‘CWE134_Uncontrolled_Format_String__char_file_fprintf_34_bad’:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_34.c:69:9: warning: format not a string literal and no format arguments [-Wformat-security]
+In file included from /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE134_good_rtc.c:9:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_34.c: In function ‘CWE134_Uncontrolled_Format_String__char_file_fprintf_34_bad’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_34.c:69:9: warning: format not a string literal and no format arguments [-Wformat-security]
    69 |         fprintf(stdout, data);
       |         ^~~~~~~
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_34.c: In function ‘goodG2B’:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_34.c:90:9: warning: format not a string literal and no format arguments [-Wformat-security]
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_34.c: In function ‘goodG2B’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_34.c:90:9: warning: format not a string literal and no format arguments [-Wformat-security]
    90 |         fprintf(stdout, data);
       |         ^~~~~~~

@@ -1,0 +1,2 @@
+filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
+CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_66b.c,1.3907,0.0015,0.0015,20.0209,20.0149,1607,1281,32,2

@@ -1,2 +1,2 @@
 filename,instrumentation(s),rtc_bad(s),rtc_good(s),ft_bad(s),ft_good(s),afl_input_bad(ms),afl_input_good(ms),cat_bad(ms),cat_good(ms)
-CWE134_Uncontrolled_Format_String__char_file_fprintf_44.c,0.8159,0.0505,0.0557,20.0124,20.0131,17731,15212,1666,1416
+CWE134_Uncontrolled_Format_String__char_file_fprintf_44.c,1.3505,0.0014,0.0021,20.0145,20.0149,16398,14584,1253,1067

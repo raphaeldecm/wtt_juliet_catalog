@@ -1,2 +1,2 @@
-cwe,file,kind,sloc,saAll,saFilter,rtc,ftCrashes,aflrtc_pass,aflrtc_fail,aflrtc_crash
-CWE134,CWE134_Uncontrolled_Format_String__char_file_fprintf_01.c,good,91,11,3,FAILED,0,0,25393,45
+cwe,file,kind,sloc,saAll,insideAll,saFilter,insideFilter,rtc,ftCrashes,aflrtc_pass,aflrtc_fail,aflrtc_crash
+CWE134,CWE134_Uncontrolled_Format_String__char_file_fprintf_01.c,good,91,11,true,3,true,PASSED,0,20289,231,0

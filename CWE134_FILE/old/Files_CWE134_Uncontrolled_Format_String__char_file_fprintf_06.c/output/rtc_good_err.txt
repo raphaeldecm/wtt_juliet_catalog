@@ -1,0 +1,13 @@
+In file included from testers/tester_wtt_CWE134_good_rtc.c:9:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_06.c: In function ‘CWE134_Uncontrolled_Format_String__char_file_fprintf_06_bad’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_06.c:69:9: warning: format not a string literal and no format arguments [-Wformat-security]
+   69 |         fprintf(stdout, data);
+      |         ^~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_06.c: In function ‘goodG2B1’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_06.c:175:9: warning: format not a string literal and no format arguments [-Wformat-security]
+  175 |         fprintf(stdout, data);
+      |         ^~~~~~~
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_06.c: In function ‘goodG2B2’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_06.c:193:9: warning: format not a string literal and no format arguments [-Wformat-security]
+  193 |         fprintf(stdout, data);
+      |         ^~~~~~~

@@ -1,13 +1,13 @@
-In file included from testers/tester_wtt_CWE134_bad_rtc.c:9:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c: In function ‘CWE134_Uncontrolled_Format_String__char_file_fprintf_05_bad’:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c:70:9: warning: format not a string literal and no format arguments [-Wformat-security]
+In file included from /home/raphael/DOCFILES/DoctoralFiles/WeaknessesTestingTool/wtt_juliet/Files/testers/tester_wtt_CWE134_bad_rtc.c:9:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c: In function ‘CWE134_Uncontrolled_Format_String__char_file_fprintf_05_bad’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c:70:9: warning: format not a string literal and no format arguments [-Wformat-security]
    70 |         fprintf(stdout, data);
       |         ^~~~~~~
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c: In function ‘goodG2B1’:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c:176:9: warning: format not a string literal and no format arguments [-Wformat-security]
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c: In function ‘goodG2B1’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c:176:9: warning: format not a string literal and no format arguments [-Wformat-security]
   176 |         fprintf(stdout, data);
       |         ^~~~~~~
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c: In function ‘goodG2B2’:
-/home/raphael/DOCFILES/DoctoralFiles/Juliet/C/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c:194:9: warning: format not a string literal and no format arguments [-Wformat-security]
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c: In function ‘goodG2B2’:
+/home/raphael/DOCFILES/DoctoralFiles/Juliet/C1.2/testcases/CWE134_Uncontrolled_Format_String/wtt/CWE134_Uncontrolled_Format_String__char_file_fprintf_05.c:194:9: warning: format not a string literal and no format arguments [-Wformat-security]
   194 |         fprintf(stdout, data);
       |         ^~~~~~~
